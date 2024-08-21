@@ -3,4 +3,4 @@
 - Estou estudando na Alura
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
 - 
--![]{https://images.app.goo.gl/39zqE6X1Y8uruZPZ7}
+-![]{(https://media.tenor.com/XeFrPFgOvTsAAAAM/sesame-street-elmo.gif)}
